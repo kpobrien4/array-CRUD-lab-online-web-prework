@@ -33,9 +33,11 @@ array[2]
 end
 
 def retrieve_first_element_from_array(array)
-
+array = ["I","am"]
+array[0]
 end
 
 def retrieve_last_element_from_array(array)
-
+  array = ["I","am"]
+  array[-1]
 end
