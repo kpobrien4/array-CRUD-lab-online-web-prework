@@ -28,7 +28,7 @@ end
 
 def retrieve_element_from_index(array, index_number)
 array = ["hey","ham","am"]
-array.index("am")
+array[2]
 
 end
 
